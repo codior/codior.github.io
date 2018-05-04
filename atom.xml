@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-04T02:35:15.554Z</updated>
+  <updated>2018-05-04T03:24:10.969Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>php实现预览功能(pdf,mp4)</title>
-    <link href="http://yoursite.com/2018/05/04/php%E5%AE%9E%E7%8E%B0%E9%A2%84%E8%A7%88%E5%8A%9F%E8%83%BD-pdf-mp4/"/>
-    <id>http://yoursite.com/2018/05/04/php实现预览功能-pdf-mp4/</id>
-    <published>2018-05-04T02:35:15.000Z</published>
-    <updated>2018-05-04T02:35:15.554Z</updated>
+    <title>linux下php实现docx,txt,xls,execl转化为pdf</title>
+    <link href="http://yoursite.com/2018/05/04/linux%E4%B8%8Bphp%E5%AE%9E%E7%8E%B0docx-txt-xls-execl%E8%BD%AC%E5%8C%96%E4%B8%BApdf/"/>
+    <id>http://yoursite.com/2018/05/04/linux下php实现docx-txt-xls-execl转化为pdf/</id>
+    <published>2018-05-04T03:13:00.000Z</published>
+    <updated>2018-05-04T03:24:10.969Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="日记" scheme="http://yoursite.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="node.js" scheme="http://yoursite.com/tags/node-js/"/>
     
   </entry>
   
